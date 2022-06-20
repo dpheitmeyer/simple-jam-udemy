@@ -5,3 +5,8 @@ body {
 h1 { font-size: 3rem; margin-top: 5rem;}
 h1, p { text-align: center;}
 h1 img { width: 3ch; vertical-align: middle;}
+
+#disqus_thread {
+    margin: 2rem auto;
+    max-width: 40rem;
+}
